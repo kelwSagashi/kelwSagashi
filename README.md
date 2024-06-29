@@ -68,7 +68,8 @@ Como sou um estudante, não possuo experiência profissional no regime CLT, embo
 <br>
 
 - **Frameworks, Platforms and Libraries**
-  
+
+    ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
     ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
     ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 
