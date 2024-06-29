@@ -22,7 +22,7 @@ Como sou um estudante, não possuo experiência profissional no regime CLT, embo
 - Desenvolvedor Front e back-end
 - Estudante de Ciência da Computação da UFOPA
 - Atualmente não tenho nenhum vínculo empregatício com nenhuma instutuição pública ou privada
-- [meu curriculo](https://read.cv/kelw_)
+- [Meu curriculo](https://read.cv/kelw_)
 
 <br><br>
 
@@ -171,4 +171,4 @@ Como sou um estudante, não possuo experiência profissional no regime CLT, embo
 
 <div align='center'>
 
-Ultima edição: 02/09/2023
+Ultima edição: 28/06/2024
