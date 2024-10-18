@@ -1,17 +1,12 @@
 
 <h1 align="center"><b>Olá, sou Kelson Wendrel</b><img src="" width="35"></h1>
-<!--  -->Estou buscando experiência profissional na aréa de tecnologia e computação. Estudei no Instituto Federal do Pará, por 3 anos, no curso de Técnico em Desenvolvimento de Sistemas e atualmente curso Ciência da Computação na Universidade Federal do Oeste do Pará (UFOPA-IEG). 
-Como sou um estudante, não possuo experiência profissional no regime CLT, embora já fiz estágios remunerados como instrutor de informática.
+<!--  -->Estudei no Instituto Federal do Pará, por 3 anos, no curso de Técnico em Desenvolvimento de Sistemas e, atualmente, estou cursando Ciência da Computação na Universidade Federal do Oeste do Pará (UFOPA).
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor front-end;Desenvolvedor back-end;Estudante de Ciência da Computação;Aluno ativo;Sempre aprendendo coisas novas"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor front-end;Desenvolvedor back-end;Estudante de Ciência da Computação;Profissional ativo;Sempre aprendendo coisas novas"></a>
 </p>
 
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 
@@ -21,7 +16,6 @@ Como sou um estudante, não possuo experiência profissional no regime CLT, embo
 
 - Desenvolvedor Front e back-end
 - Estudante de Ciência da Computação da UFOPA
-- Atualmente não tenho nenhum vínculo empregatício com nenhuma instutuição pública ou privada
 - [Meu curriculo](https://read.cv/kelw_)
 
 <br><br>
